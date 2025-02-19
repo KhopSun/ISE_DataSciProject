@@ -25,7 +25,7 @@ This project is a part of Data Science Course at Chulalongkorn University, aimin
 ---
 
 ## 🧠 **Machine Learning Model**
-The **GopherSubjectArea** model, hosted on **Hugging Face**, classifies research abstracts into six categories:
+The ml model, hosted on **Hugging Face**, classifies research abstracts into six categories:
 - Sciences
 - Health and Medicine
 - Engineering and Technology
@@ -40,7 +40,7 @@ The **GopherSubjectArea** model, hosted on **Hugging Face**, classifies research
 - **Data Handling:** Pandas
 - **Visualizations:** Matplotlib, Plotly, Pydeck, Altair
 - **Machine Learning:** Hugging Face Transformers, PyTorch
-- **Database:** MongoDB (optional)
+- **Database:** MongoDB
 
 ---
 
