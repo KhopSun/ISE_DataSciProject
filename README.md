@@ -44,28 +44,5 @@ The ml model, hosted on **Hugging Face**, classifies research abstracts into six
 
 ---
 
-## 🎨 **Dashboard Pages & Visualizations**
-### **1. Home**
-- **Key Metrics:** Total publications, authors, affiliations, and reference counts.
-- **Trends:** Publication trends over time.
-
-### **2. Publication**
-- **Growth Over Time:** Line chart of publication volume.
-- **Subject Area Distribution:** Treemap showing research fields.
-
-### **3. Author**
-- **Top Authors:** Bar chart of most productive authors.
-- **Collaboration Network:** Visualization of co-authorship.
-
-### **4. Affiliation**
-- **Affiliation Map:** Interactive map showing research contributions by country.
-- **Top Institutions:** Bar chart of active affiliations.
-
-### **5. ML (Machine Learning)**
-- **Text Classification:** Predicts research category based on input abstract.
-- **Model Performance:** Displays accuracy, precision, recall, and F1 scores.
-
----
-
 ## 🌟 **Acknowledgements**
 Special thanks to my professor, the TAs, and all my group members for their support and contributions!
