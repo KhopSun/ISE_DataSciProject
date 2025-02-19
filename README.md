@@ -2,6 +2,8 @@
 
 A comprehensive dashboard built using **Streamlit** to analyze research papers, providing insights into publications, authors, affiliations, and leveraging **machine learning** to predict research categories.
 
+![Research Paper Dashboard](Dashboard_Screenshot.png)
+
 ---
 
 ## 🚀 **Project Overview**
